@@ -1,0 +1,3 @@
+[alisaap]
+SigLevel = Never
+Server = https://alisamki.github.io/alisaap/$arch
